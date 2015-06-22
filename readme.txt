@@ -25,16 +25,6 @@ Installing "Easy Load More" can be done either by searching for "Easy Load More"
 
 Once plugin is activated, you need to update plugin settings under 'Settings > Easy Load More'. On pages where you would like to use the button you need to add the "load_more_button()" function to your template files.
 
-Example:
-
-<div id="ajax">
-
-<?php /* Your Wordpress posts loop */ ?>
-
-</div>
-
-<?php load_more_button(); ?>
-
 == Screenshots ==
 
 1. Add a load more button to your posts loop.
